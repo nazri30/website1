@@ -1,0 +1,103 @@
+.uye {
+    margin-left: 50px;
+    border: 2px solid black;
+    width: 250px;
+    padding: 20px;
+    border-radius: 10px;
+}
+.oke {
+    margin-left: 55px;
+}
+.sip {
+    list-style: none;
+    margin-left: 35px;
+    text-decoration: none;
+}
+.teks {
+    font-weight: bold;
+    margin-left: 500px;
+}
+.woke {
+    margin-left: 350px;
+    margin-top: -325px;
+    border: 2px solid black;
+    width: 250px;
+    padding: 20px;
+    border-radius: 10px;
+}
+.wokee {
+    margin-left: 650px;
+    margin-top: -325px;
+    border: 2px solid black;
+    width: 250px;
+    padding: 20px;
+    border-radius: 10px;
+}
+.wokeee {
+    margin-left: 950px;
+    margin-top: -325px;
+    border: 2px solid black;
+    width: 250px;
+    padding: 20px;
+    border-radius: 10px;
+}
+.koe {
+    margin-left: 65px;
+}
+footer {
+    background: #111;
+    height: auto;
+    width: 98vw;
+    font-family: "Open sans";
+    padding-top: 30px;
+    color: #fff;
+}
+.footer-content {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    text-align: center;
+}
+.footer-content h3 {
+    font-size: 1.8rem;
+    font-weight: 400;
+    text-transform: capitalize;
+    line-height: 3rem;
+}
+.footer-content p {
+    max-width: 500px;
+    margin: 10px auto;
+    line-height: 28px;
+    font-size: 14px;
+}
+.socials {
+    list-style: none;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 1rem 0 3rem 0;
+}
+.socials li {
+    margin: 0 10px;
+}
+.socials a {
+    text-decoration: none;
+    color: #fff;
+}
+.socials a i {
+    font-size: 1.1rem;
+    transition: color .4s ease;
+}
+.socials a:hover i {
+    color: aqua;
+}
+.footer-bottom {
+    background: #000;
+    width: 98vw;
+    padding: 20px 0;
+    text-align: center;
+}
+.footer-bottom p {
+    font-size: 14px;
+}
